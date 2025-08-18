@@ -49,7 +49,7 @@ The full document is also given under `final_document.pdf`.
 I'm especially proud of this Dissertation project. I made it a goal to contribute to it **every single day** for 6 weeks-  a commitment you can see in the GitHub commit heatmap below!  
 
 <p align="center">
-  <img src="/figures/personal_contributions.png" alt="Contributions" width="400"/>
+  <img src="/figures/personal_contributions.png" alt="Contributions" width="100"/>
 </p>
 
 ## 🤝 Open to Collaboration
