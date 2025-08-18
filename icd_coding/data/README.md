@@ -1,6 +1,4 @@
-📁 ICD Coding
-
-ICD-9-CM Codes Data Folder
+### 📁 ICD Coding data
 
 This folder contains:
 1. `ICD_Codes_and_Descriptions`: The strutured ICD-9-CM folder with all the available codes and their short and long descriptions. In total about ~13,000 codes. We used the long description column for making the FAISS index, for the codes in our dataset.
@@ -9,7 +7,7 @@ This folder contains:
 4. `index/icd_index.faiss`: FAISS index of the encoded icd code long descriptions.
 5.  `index/icd_codes.json`: description and icd codes present in the dataset, for easier retrieval.
 
-📚 ICD-9-CM Code Ranges by Category
+##### 📚 ICD-9-CM Code Ranges by Category
 
 | Code Range  | Category                                                           |
 | ----------- | ------------------------------------------------------------------ |
