@@ -1,0 +1,20 @@
+  [
+    {
+    "clinical_scenario": "Breast Pain",
+    "variant": "Variant 3: Female with clinically significant breast pain (focal and noncyclical). Age 30 to 39. Initial imaging.",
+    "procedure": "Mammography diagnostic",
+    "llm_reasoning": "Given the clinical condition of breast pain in a 30 to 39-year-old female, the procedure of mammography diagnostic may be appropriate because localized pain can be a presenting symptom of breast cancer [10]. However, the utility of mammography in this age group is limited, especially in nondense breasts, as 71% of lesions detected in dense breasts were seen only with ultrasound [9]. Therefore, the procedure may be more effective when ultrasound is used in conjunction with mammography, especially in dense breasts.",
+    "llm_answer": "May Be Appropriate",
+    "gold_reasoning": "Mammography may be used to exclude malignancy in cases of focal and noncyclical breast pain due to low incidence of cancer. A retrospective review of 206 patients with focal breast pain found mammography to have a high sensitivity (100%) and NPV (100%) [11]. The same study found mammography specificity to be 87.6% [11]. Another study found mammography specificity to be 97% in nondense breasts and 96% in dense breasts [9]. A retrospective study combining mammography with US found a NPV of 100%, although limited by patients lost to follow-up [38].",
+    "gold_answer": "Usually Appropriate"
+  },
+  {
+    "clinical_scenario": "Headache",
+    "variant": "Variant 2: Primary migraine or tension-type headache. Normal neurologic examination. Initial imaging.",
+    "procedure": "CT head without and with IV contrast",
+    "llm_reasoning": "There is no relevant clinical literature for this variant and procedure.",
+    "llm_answer": "Usually Not Appropriate",
+    "gold_reasoning": "There is no literature supporting the use of CT head without and with IV contrast for this variant.",
+    "gold_answer": "Usually Not Appropriate"
+  }
+]

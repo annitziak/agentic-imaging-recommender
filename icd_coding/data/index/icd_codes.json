@@ -1,0 +1,465 @@
+{"description": "Malignant neoplasm of breast (female), unspecified", "code": 1749}
+{"description": "Malignant neoplasm of prostate", "code": 185}
+{"description": "Injury to liver without mention of open wound into cavity, hematoma and contusion", "code": 86401}
+{"description": "Headache", "code": 7840}
+{"description": "Dental examination", "code": "V722"}
+{"description": "Closed supracondylar fracture of femur", "code": 82123}
+{"description": "Other nonspecific findings on examination of urine", "code": 7919}
+{"description": "Malignant neoplasm of bladder, part unspecified", "code": 1889}
+{"description": "Closed fracture of shaft of radius or ulna, unspecified", "code": 81320}
+{"description": "Unspecified transient cerebral ischemia", "code": 4359}
+{"description": "Hydronephrosis", "code": 591}
+{"description": "Diffuse cystic mastopathy", "code": 6101}
+{"description": "Obstruction of bile duct", "code": 5762}
+{"description": "Neoplasm of unspecified nature, site unspecified", "code": 2399}
+{"description": "Demyelinating disease of central nervous system, unspecified", "code": 3419}
+{"description": "Neoplasm of uncertain behavior of liver and biliary passages", "code": 2353}
+{"description": "Nodular lymphoma, unspecified site, extranodal and solid organ sites", "code": 20200}
+{"description": "Other follow-up examination", "code": "V6759"}
+{"description": "Other chronic hepatitis", "code": 57149}
+{"description": "Regional enteritis of unspecified site", "code": 5559}
+{"description": "Closed fracture of unspecified part of tibia alone", "code": 82380}
+{"description": "Malignant neoplasm of other specified sites of pleura", "code": 1638}
+{"description": "Progressive infantile idiopathic scoliosis", "code": 73732}
+{"description": "Malignant neoplasm of nipple and areola of male breast", "code": 1750}
+{"description": "Malignant neoplasm of liver, primary", "code": 1550}
+{"description": "Other closed fractures of distal end of radius (alone)", "code": 81342}
+{"description": "Hyperparathyroidism, unspecified", "code": 25200}
+{"description": "Closed fracture of unspecified part of fibula alone", "code": 82381}
+{"description": "Osteoporosis, unspecified", "code": 73300}
+{"description": "Sarcoidosis", "code": 135}
+{"description": "Carcinoid syndrome", "code": 2592}
+{"description": "Malignant neoplasm of uterus, part unspecified", "code": 179}
+{"description": "Screening mammogram for high-risk patient", "code": "V7611"}
+{"description": "Closed fracture of unspecified part of fibula with tibia", "code": 82382}
+{"description": "Unspecified psychosis", "code": 2989}
+{"description": "Chronic kidney disease, Stage V", "code": 5855}
+{"description": "Hypertrophy of breast", "code": 6111}
+{"description": "Closed fracture of unspecified part of forearm", "code": 81380}
+{"description": "Obesity, unspecified", "code": 27800}
+{"description": "Nontoxic uninodular goiter", "code": 2410}
+{"description": "Chronic kidney disease, Stage IV (severe)", "code": 5854}
+{"description": "Other closed skull fracture with other and unspecified intracranial hemorrhage, with no loss of consciousness", "code": 80331}
+{"description": "Chronic pain syndrome", "code": 3384}
+{"description": "Unspecified aftercare", "code": "V590"}
+{"description": "Malignant neoplasm of male genital organ, site unspecified", "code": 1879}
+{"description": "Neurofibromatosis, type 1 [von recklinghausen's disease]", "code": 23771}
+{"description": "Communicating hydrocephalus", "code": 3313}
+{"description": "Benign neoplasm of other specified sites of nervous system", "code": 2258}
+{"description": "Compression of brain", "code": 3484}
+{"description": "Malignant neoplasm of other parts of bronchus or lung", "code": 1628}
+{"description": "Carcinoma in situ of prostate", "code": 2334}
+{"description": "Anomalies of adrenal gland", "code": 7591}
+{"description": "Benign neoplasm of ovary", "code": 220}
+{"description": "Hepatitis, unspecified", "code": 5733}
+{"description": "Malignant neoplasm of other specified sites of female breast", "code": 1748}
+{"description": "Mild intellectual disabilities", "code": 317}
+{"description": "Alzheimer's disease", "code": 3310}
+{"description": "Scoliosis associated with other conditions", "code": 73743}
+{"description": "Unspecified delay in development", "code": 3159}
+{"description": "Unspecified acquired deformity of hip", "code": 73630}
+{"description": "Paroxysmal ventricular tachycardia", "code": 4271}
+{"description": "Other chest pain", "code": 78659}
+{"description": "Other specified forms of chronic ischemic heart disease", "code": 4148}
+{"description": "Malignant neoplasm of other parts of mediastinum", "code": 1648}
+{"description": "Other specified disorders of biliary tract", "code": 5768}
+{"description": "Unspecified follow-up examination", "code": "V679"}
+{"description": "Other malignant lymphomas, unspecified site, extranodal and solid organ sites", "code": 20280}
+{"description": "Pain in joint, forearm", "code": 71943}
+{"description": "Malignant neoplasm of lower-outer quadrant of female breast", "code": 1745}
+{"description": "Undescended testis", "code": 75251}
+{"description": "Systemic sclerosis", "code": 7101}
+{"description": "Monoclonal paraproteinemia", "code": 2731}
+{"description": "Observation for suspected malignant neoplasm", "code": "V711"}
+{"description": "End stage renal disease", "code": 5856}
+{"description": "Supervision of unspecified high-risk pregnancy", "code": "V239"}
+{"description": "Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta", "code": "07020"}
+{"description": "Unspecified aftercare", "code": "V589"}
+{"description": "Ankylosing spondylitis", "code": 7200}
+{"description": "Multiple sclerosis", "code": 340}
+{"description": "Malignant neoplasm of thyroid gland", "code": 193}
+{"description": "Unspecified breast disorder", "code": 6119}
+{"description": "Neoplasm of uncertain behavior of other and unspecified parts of nervous system", "code": 2379}
+{"description": "Personal history of malignant neoplasm of breast", "code": "V103"}
+{"description": "Family history of ischemic heart disease", "code": "V173"}
+{"description": "Malignant neoplasm of trachea", "code": 1620}
+{"description": "Obstructive hydrocephalus", "code": 3314}
+{"description": "Routine general medical examination at a health care facility", "code": "V700"}
+{"description": "Other closed fracture of upper end of humerus", "code": 81209}
+{"description": "Primary pulmonary hypertension", "code": 4160}
+{"description": "Closed fracture of olecranon process of ulna", "code": 81301}
+{"description": "Malignant neoplasm of connective and other soft tissue of head, face, and neck", "code": 1710}
+{"description": "Closed fracture of shaft of tibia alone", "code": 82320}
+{"description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)", "code": 60000}
+{"description": "Malignant neoplasm of bronchus and lung, unspecified", "code": 1629}
+{"description": "Toxic uninodular goiter without mention of thyrotoxic crisis or storm", "code": 24210}
+{"description": "Chronic lymphocytic thyroiditis", "code": 2452}
+{"description": "Benign mammary dysplasia, unspecified", "code": 6109}
+{"description": "Malignant neoplasm of pleura, unspecified", "code": 1639}
+{"description": "Congestive heart failure, unspecified", "code": 4280}
+{"description": "Chronic hepatitis, unspecified", "code": 57140}
+{"description": "Closed fracture of lower end of radius with ulna", "code": 81344}
+{"description": "Unspecified general medical examination", "code": "V709"}
+{"description": "Chronic kidney disease, Stage III (moderate)", "code": 5853}
+{"description": "Closed fracture of unspecified part of femur", "code": 82100}
+{"description": "Cervical spondylosis without myelopathy", "code": 7210}
+{"description": "Malignant neoplasm of middle lobe, bronchus or lung", "code": 1624}
+{"description": "Benign neoplasm of breast", "code": 217}
+{"description": "Aphasia", "code": 7843}
+{"description": "Solitary pulmonary nodule", "code": 79311}
+{"description": "Other congenital deformity of hip (joint)", "code": 75563}
+{"description": "Unspecified anomaly of circulatory system", "code": 7479}
+{"description": "Renal colic", "code": 7880}
+{"description": "Chronic glomerulonephritis with other specified pathological lesion in kidney", "code": 58289}
+{"description": "Other closed skull fracture with intracranial injury of other and unspecified nature, with no loss of consciousness", "code": 80341}
+{"description": "Malignant neoplasm of ascending colon", "code": 1536}
+{"description": "Malignant neoplasm of other specified sites of large intestine", "code": 1538}
+{"description": "Subarachnoid hemorrhage", "code": 430}
+{"description": "Malignant neoplasm of head of pancreas", "code": 1570}
+{"description": "Rheumatoid arthritis", "code": 7140}
+{"description": "Other allied disorders of spine", "code": 7218}
+{"description": "Malignant neoplasm of upper-outer quadrant of female breast", "code": 1744}
+{"description": "Chronic ischemic heart disease, unspecified", "code": 4149}
+{"description": "Leiomyoma of uterus, unspecified", "code": 2189}
+{"description": "Malignant neoplasm of pancreas, part unspecified", "code": 1579}
+{"description": "Subarachnoid hemorrhage following injury without mention of open intracranial wound, with concussion, unspecified", "code": 85209}
+{"description": "Abdominal pain, generalized", "code": 78907}
+{"description": "Other emphysema", "code": 4928}
+{"description": "Other chronic pain", "code": 33829}
+{"description": "Other affections of shoulder region, not elsewhere classified", "code": 7262}
+{"description": "Benign neoplasm of colon", "code": 2113}
+{"description": "Closed fracture of unspecified part of radius with ulna", "code": 81383}
+{"description": "Neoplasm of uncertain behavior of testis", "code": 2364}
+{"description": "Rheumatism, unspecified and fibrositis", "code": 7290}
+{"description": "Unspecified hereditary and idiopathic peripheral neuropathy", "code": 3569}
+{"description": "Cervicalgia", "code": 7231}
+{"description": "Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy", "code": 34541}
+{"description": "Acquired spondylolisthesis", "code": 7384}
+{"description": "Special screening for unspecified malignant neoplasms", "code": "V769"}
+{"description": "Other acquired deformities of hip", "code": 73639}
+{"description": "Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus", "code": 34691}
+{"description": "Closed supracondylar fracture of humerus", "code": 81241}
+{"description": "Unspecified causes of encephalitis, myelitis, and encephalomyelitis", "code": 3239}
+{"description": "Other ventral hernia without mention of obstruction or gangrene", "code": 55329}
+{"description": "Chronic kidney disease, unspecified", "code": 5859}
+{"description": "Screening for unspecified condition", "code": "V829"}
+{"description": "Observation for unspecified suspected condition", "code": "V719"}
+{"description": "Carcinoma in situ of breast", "code": 2330}
+{"description": "Malignant neoplasm of colon, unspecified site", "code": 1539}
+{"description": "Kidney replaced by transplant", "code": "V420"}
+{"description": "Other and unspecified hyperlipidemia", "code": 2724}
+{"description": "Muscle weakness (generalized)", "code": 72887}
+{"description": "Lump or mass in breast", "code": 61172}
+{"description": "Other anomalies of intestine", "code": 7515}
+{"description": "Malignant neoplasm of urinary organ, site unspecified", "code": 1899}
+{"description": "Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled", "code": 25000}
+{"description": "Malignant neoplasm of other specified sites of uterine adnexa", "code": 1838}
+{"description": "Other primary cardiomyopathies", "code": 4254}
+{"description": "Other specified disorders of parathyroid gland", "code": 2528}
+{"description": "Other specified disorders of prostate", "code": 6028}
+{"description": "Malignant neoplasm of liver, secondary", "code": 1977}
+{"description": "Takayasu's disease", "code": 4467}
+{"description": "Other screening mammogram", "code": "V7612"}
+{"description": "Malignant neoplasm of other and unspecified testis", "code": 1869}
+{"description": "Lymphocytopenia", "code": 28851}
+{"description": "Heart disease, unspecified", "code": 4299}
+{"description": "Malignant neoplasm of rectosigmoid junction", "code": 1540}
+{"description": "Unspecified acquired hypothyroidism", "code": 2449}
+{"description": "Genetic susceptibility to other malignant neoplasm", "code": "V8409"}
+{"description": "Vertigo of central origin", "code": 3862}
+{"description": "Malocclusion, Angle's class III", "code": 52423}
+{"description": "Empyema with fistula", "code": 5100}
+{"description": "Other specified anomalies of kidney", "code": 7533}
+{"description": "Urinary incontinence, unspecified", "code": 78830}
+{"description": "Sicca syndrome", "code": 7102}
+{"description": "Closed fracture of unspecified part of radius (alone)", "code": 81381}
+{"description": "Spina bifida occulta", "code": 75617}
+{"description": "Malignant neoplasm of corpus uteri, except isthmus", "code": 1820}
+{"description": "Lumbago", "code": 7242}
+{"description": "Kidney donors", "code": "V594"}
+{"description": "Male infertility, unspecified", "code": 6069}
+{"description": "Other and unspecified anomalies of musculoskeletal system", "code": 7569}
+{"description": "Closed fracture of middle or proximal phalanx or phalanges of hand", "code": 81601}
+{"description": "Short stature", "code": 78343}
+{"description": "Calculus of gallbladder without mention of cholecystitis, without mention of obstruction", "code": 57420}
+{"description": "Malignant neoplasm of upper-inner quadrant of female breast", "code": 1742}
+{"description": "Moderate intellectual disabilities", "code": 3180}
+{"description": "Neoplasm of unspecified nature of respiratory system", "code": 2391}
+{"description": "Calculus of ureter", "code": 5921}
+{"description": "Other ill-defined cerebrovascular disease", "code": 4378}
+{"description": "Diverticulitis of colon (without mention of hemorrhage)", "code": 56211}
+{"description": "Inflammatory disease of breast", "code": 6110}
+{"description": "Other specified forms of hearing loss", "code": 3898}
+{"description": "Hirsutism", "code": 7041}
+{"description": "Open fracture of shaft of fibula with tibia", "code": 82332}
+{"description": "Other ill-defined heart diseases", "code": 42989}
+{"description": "Other signs and symptoms in breast", "code": 61179}
+{"description": "Primary hyperparathyroidism", "code": 25201}
+{"description": "Other venous embolism and thrombosis of unspecified site", "code": 4539}
+{"description": "Chronic kidney disease, Stage II (mild)", "code": 5852}
+{"description": "Other osteoporosis", "code": 73309}
+{"description": "Chronic airway obstruction, not elsewhere classified", "code": 496}
+{"description": "Adhesive capsulitis of shoulder", "code": 7260}
+{"description": "Hepatitis B carrier", "code": "V0261"}
+{"description": "Closed fracture of distal phalanx or phalanges of hand", "code": 81602}
+{"description": "Other specified disorders of liver", "code": 5738}
+{"description": "Malignant neoplasm of stomach, unspecified site", "code": 1519}
+{"description": "Peripheral vascular disease, unspecified", "code": 4439}
+{"description": "Hypertrophic obstructive cardiomyopathy", "code": 42511}
+{"description": "Myalgia and myositis, unspecified", "code": 7291}
+{"description": "Malignant neoplasm of nasopharynx, unspecified site", "code": 1479}
+{"description": "Malignant neoplasm of rectum", "code": 1541}
+{"description": "Unspecified curvature of spine", "code": 7379}
+{"description": "Other malignant neoplasm without specification of site", "code": 1991}
+{"description": "Benign neoplasm of cerebral meninges", "code": 2252}
+{"description": "Giant cell arteritis", "code": 4465}
+{"description": "Arterial embolism and thrombosis of upper extremity", "code": 44421}
+{"description": "Malignant neoplasm of connective and other soft tissue of abdomen", "code": 1715}
+{"description": "Closed fracture of shaft of radius (alone)", "code": 81321}
+{"description": "Other specified disorders of penis", "code": 60789}
+{"description": "Malignant neoplasm of trigone of urinary bladder", "code": 1880}
+{"description": "Malignant neoplasm of kidney, except pelvis", "code": 1890}
+{"description": "Unspecified contraceptive management", "code": "V259"}
+{"description": "Postinflammatory pulmonary fibrosis", "code": 515}
+{"description": "Other and unspecified ovarian cyst", "code": 6202}
+{"description": "Benign neoplasm of liver and biliary passages", "code": 2115}
+{"description": "Malignant histiocytosis, unspecified site, extranodal and solid organ sites", "code": 20230}
+{"description": "Celiac disease", "code": 5790}
+{"description": "Scrotal varices", "code": 4564}
+{"description": "Closed fracture of lumbar vertebra without mention of spinal cord injury", "code": 8054}
+{"description": "Liver replaced by transplant", "code": "V427"}
+{"description": "Other specified disorders of kidney and ureter", "code": 59389}
+{"description": "Cyst and pseudocyst of pancreas", "code": 5772}
+{"description": "Syncope and collapse", "code": 7802}
+{"description": "Acute pain due to trauma", "code": 33811}
+{"description": "Unspecified anomaly of genital organs", "code": 7529}
+{"description": "Family history of deafness or hearing loss", "code": "V192"}
+{"description": "Closed fracture of shaft of radius with ulna", "code": 81323}
+{"description": "Allergic rhinitis, cause unspecified", "code": 4779}
+{"description": "Malignant neoplasm of body of stomach", "code": 1514}
+{"description": "Breast screening, unspecified", "code": "V7610"}
+{"description": "Screening for malignant neoplasms of prostate", "code": "V7644"}
+{"description": "Personal history of venous thrombosis and embolism", "code": "V1251"}
+{"description": "Flat foot", "code": 734}
+{"description": "Dermatomyositis", "code": 7103}
+{"description": "Precocious sexual development and puberty, not elsewhere classified", "code": 2591}
+{"description": "Malignant neoplasm of brain, unspecified", "code": 1919}
+{"description": "Other specified disorders of male genital organs", "code": 60889}
+{"description": "Neoplasm of uncertain behavior of breast", "code": 2383}
+{"description": "Osteomalacia, unspecified", "code": 2682}
+{"description": "Specified congenital anomalies of breast", "code": 7576}
+{"description": "Other specified benign mammary dysplasias", "code": 6108}
+{"description": "Psoriatic arthropathy", "code": 6960}
+{"description": "Peritonsillar abscess", "code": 475}
+{"description": "Scoliosis [and kyphoscoliosis], idiopathic", "code": 73730}
+{"description": "Pulmonary congestion and hypostasis", "code": 514}
+{"description": "Anomalies of cerebrovascular system", "code": 74781}
+{"description": "Amyloidosis, unspecified", "code": 27730}
+{"description": "Impotence of organic origin", "code": 60784}
+{"description": "Stricture or kinking of ureter", "code": 5933}
+{"description": "Other forms of migraine, without mention of intractable migraine without mention of status migrainosus", "code": 34680}
+{"description": "Acute osteomyelitis, lower leg", "code": 73006}
+{"description": "Other disorders of menstruation and other abnormal bleeding from female genital tract", "code": 6268}
+{"description": "Acute prostatitis", "code": 6010}
+{"description": "Personal history of malignant neoplasm of kidney", "code": "V1052"}
+{"description": "Vesicoureteral reflux unspecified or without reflux nephropathy", "code": 59370}
+{"description": "Malignant neoplasm of body of pancreas", "code": 1571}
+{"description": "Malignant neoplasm of penis, part unspecified", "code": 1874}
+{"description": "Other fragments of torsion dystonia", "code": 33389}
+{"description": "Essential and other specified forms of tremor", "code": 3331}
+{"description": "Intervertebral disc disorder with myelopathy, cervical region", "code": 72271}
+{"description": "Congenital hydrocephalus", "code": 7423}
+{"description": "Diverticulosis of colon (without mention of hemorrhage)", "code": 56210}
+{"description": "Elevated prostate specific antigen [PSA]", "code": 79093}
+{"description": "Malignant neoplasm of lower lobe, bronchus or lung", "code": 1625}
+{"description": "Benign neoplasm of cranial nerves", "code": 2251}
+{"description": "Derangement of posterior horn of medial meniscus", "code": 7172}
+{"description": "Atrial fibrillation", "code": 42731}
+{"description": "Benign paroxysmal positional vertigo", "code": 38611}
+{"description": "Other hyperparathyroidism", "code": 25208}
+{"description": "Encounter for antineoplastic chemotherapy", "code": "V5811"}
+{"description": "Other benign neoplasm of connective and other soft tissue of abdomen", "code": 2155}
+{"description": "Benign essential hypertension", "code": 4011}
+{"description": "Loss of teeth due to periodontal disease", "code": 52512}
+{"description": "Malignant neoplasm of anus, unspecified site", "code": 1543}
+{"description": "Closed fracture of head of radius", "code": 81305}
+{"description": "Other specified aftercare following surgery", "code": "V5849"}
+{"description": "Senile osteoporosis", "code": 73301}
+{"description": "Malignant neoplasm of adrenal gland", "code": 1940}
+{"description": "Malignant neoplasm of other and unspecified sites of male breast", "code": 1759}
+{"description": "Other general symptoms", "code": 78099}
+{"description": "Urinary tract infection, site not specified", "code": 5990}
+{"description": "Goiter, unspecified", "code": 2409}
+{"description": "Acute respiratory failure", "code": 51881}
+{"description": "Unspecified essential hypertension", "code": 4019}
+{"description": "Other specified delays in development", "code": 3158}
+{"description": "Paralysis agitans", "code": 3320}
+{"description": "Cerebral thrombosis without mention of cerebral infarction", "code": 43400}
+{"description": "Other disorders of optic nerve", "code": 37749}
+{"description": "Other organic sleep apnea", "code": 32729}
+{"description": "Empyema without mention of fistula", "code": 5109}
+{"description": "Mild cognitive impairment, so stated", "code": 33183}
+{"description": "Otosclerosis, unspecified", "code": 3879}
+{"description": "Malignant neoplasm of central portion of female breast", "code": 1741}
+{"description": "Malignant neoplasm of ovary", "code": 1830}
+{"description": "Coronary atherosclerosis of native coronary artery", "code": 41401}
+{"description": "Other pulmonary embolism and infarction", "code": 41519}
+{"description": "Closed fracture of lower end of forearm, unspecified", "code": 81340}
+{"description": "Asbestosis", "code": 501}
+{"description": "Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites", "code": 20190}
+{"description": "Postmenopausal bleeding", "code": 6271}
+{"description": "Malignant neoplasm of head, face, and neck", "code": 1950}
+{"description": "Hemiplegia, unspecified, affecting unspecified side", "code": 34290}
+{"description": "Other specified disorders of joint, ankle and foot", "code": 71987}
+{"description": "Genu valgum (acquired)", "code": 73641}
+{"description": "Nephrotic syndrome with lesion of proliferative glomerulonephritis", "code": 5810}
+{"description": "Pure hypercholesterolemia", "code": 2720}
+{"description": "Closed fracture of navicular [scaphoid] bone of wrist", "code": 81401}
+{"description": "Kyphosis (acquired) (postural)", "code": 73710}
+{"description": "Mastodynia", "code": 61171}
+{"description": "Pain in thoracic spine", "code": 7241}
+{"description": "Benign neoplasm of other specified sites", "code": 2298}
+{"description": "Tear of medial cartilage or meniscus of knee, current", "code": 8360}
+{"description": "Other frontotemporal dementia", "code": 33119}
+{"description": "Spinal stenosis, lumbar region, without neurogenic claudication", "code": 72402}
+{"description": "Major depressive affective disorder, recurrent episode, moderate", "code": 29632}
+{"description": "Memory loss", "code": 78093}
+{"description": "Other specified types of hydrocele", "code": 6038}
+{"description": "Acute pyelonephritis without lesion of renal medullary necrosis", "code": 59010}
+{"description": "Family history of malignant neoplasm of breast", "code": "V163"}
+{"description": "Senile dementia, uncomplicated", "code": 2900}
+{"description": "Other specified congenital anomalies of nervous system", "code": 7428}
+{"description": "Scanty or infrequent menstruation", "code": 6261}
+{"description": "Malignant neoplasm of hepatic flexure", "code": 1530}
+{"description": "Nontoxic multinodular goiter", "code": 2411}
+{"description": "Closed fracture of metatarsal bone(s)", "code": 82525}
+{"description": "Malignant neoplasm of mediastinum, part unspecified", "code": 1649}
+{"description": "Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity", "code": 45340}
+{"description": "Unspecified hearing loss", "code": 3899}
+{"description": "Autistic disorder, current or active state", "code": 29900}
+{"description": "Unspecified disorder of ear", "code": 3889}
+{"description": "Extrinsic asthma, unspecified", "code": 49300}
+{"description": "Solitary cyst of breast", "code": 6100}
+{"description": "Other cerebral degeneration", "code": 33189}
+{"description": "Hip joint replacement", "code": "V4364"}
+{"description": "Malignant melanoma of other specified sites of skin", "code": 1728}
+{"description": "Dental caries, unspecified", "code": 52100}
+{"description": "Degeneration of lumbar or lumbosacral intervertebral disc", "code": 72252}
+{"description": "Hypoparathyroidism", "code": 2521}
+{"description": "Other closed fracture of lower end of humerus", "code": 81249}
+{"description": "Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, unspecified site, extranodal and solid organ sites", "code": 20290}
+{"description": "Malignant neoplasm of lower-inner quadrant of female breast", "code": 1743}
+{"description": "Chronic sphenoidal sinusitis", "code": 4733}
+{"description": "Malignant neoplasm of renal pelvis", "code": 1891}
+{"description": "Benign localized hyperplasia of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)", "code": 60021}
+{"description": "Malignant neoplasm of brain stem", "code": 1917}
+{"description": "Abdominal pain, left lower quadrant", "code": 78904}
+{"description": "Systemic lupus erythematosus", "code": 7100}
+{"description": "Sprains and strains of unspecified site of knee and leg", "code": 8449}
+{"description": "Heart failure, unspecified", "code": 4289}
+{"description": "Aortic aneurysm of unspecified site without mention of rupture", "code": 4419}
+{"description": "Abdominal or pelvic swelling, mass, or lump, unspecified site", "code": 78930}
+{"description": "Unspecified chronic disease of tonsils and adenoids", "code": 4749}
+{"description": "Cerebral cysts", "code": 3480}
+{"description": "Malignant neoplasm of cervix uteri, unspecified site", "code": 1809}
+{"description": "Candidiasis of vulva and vagina", "code": 1121}
+{"description": "Neoplasm of unspecified nature of brain", "code": 2396}
+{"description": "Neoplasm of uncertain behavior of stomach, intestines, and rectum", "code": 2352}
+{"description": "Cerebral aneurysm, nonruptured", "code": 4373}
+{"description": "Melanoma of skin, site unspecified", "code": 1729}
+{"description": "Enthesopathy of hip region", "code": 7265}
+{"description": "Other specified forms of osteochondropathy", "code": 7328}
+{"description": "Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)", "code": 55090}
+{"description": "Hodgkin's granuloma, lymph nodes of multiple sites", "code": 20118}
+{"description": "Abscess of liver", "code": 5720}
+{"description": "Fibroadenosis of breast", "code": 6102}
+{"description": "Neoplasm of uncertain behavior of kidney and ureter", "code": 23691}
+{"description": "Embolism and thrombosis of other specified artery", "code": 44489}
+{"description": "Complications of transplanted kidney", "code": 99681}
+{"description": "Acquired equinovarus deformity", "code": 73671}
+{"description": "Osteoarthrosis, localized, primary, shoulder region", "code": 71511}
+{"description": "Malignant neoplasm of liver, not specified as primary or secondary", "code": 1552}
+{"description": "Benign neoplasm of brain", "code": 2250}
+{"description": "Unspecified organ or tissue replaced by transplant", "code": "V429"}
+{"description": "Long-term (current) use of other medications", "code": "V5869"}
+{"description": "Congenital reduction deformities of brain", "code": 7422}
+{"description": "Other obstructive defects of renal pelvis and ureter", "code": 75329}
+{"description": "Neoplasm of uncertain behavior of brain and spinal cord", "code": 2375}
+{"description": "Hypertrophy of nasal turbinates", "code": 4780}
+{"description": "Simple chronic bronchitis", "code": 4910}
+{"description": "Allergy, unspecified, not elsewhere classified", "code": 9953}
+{"description": "SARS-associated coronavirus", "code": "07982"}
+{"description": "Hodgkin's disease, unspecified type, lymph nodes of multiple sites", "code": 20198}
+{"description": "Malocclusion, unspecified", "code": 5244}
+{"description": "Syringomyelia and syringobulbia", "code": 3360}
+{"description": "Papanicolaou smear of cervix with cytologic evidence of malignancy", "code": 79506}
+{"description": "Displacement of lumbar intervertebral disc without myelopathy", "code": 72210}
+{"description": "Senile dementia with depressive features", "code": 29021}
+{"description": "Personal history of malignant neoplasm of other sites", "code": "V1089"}
+{"description": "Multiple myeloma, without mention of having achieved remission", "code": 20300}
+{"description": "Edema", "code": 7823}
+{"description": "Closed fracture of shaft of humerus", "code": 81221}
+{"description": "Renal agenesis and dysgenesis", "code": 7530}
+{"description": "Enlargement of lymph nodes", "code": 7856}
+{"description": "Unspecified gingival and periodontal disease", "code": 5239}
+{"description": "Other benign neoplasm of connective and other soft tissue of other specified sites", "code": 2158}
+{"description": "Benign neoplasm of major salivary glands", "code": 2102}
+{"description": "Vesicoureteral reflux with reflux nephropathy, unilateral", "code": 59371}
+{"description": "Delirium due to conditions classified elsewhere", "code": 2930}
+{"description": "Intracranial abscess", "code": 3240}
+{"description": "Acute glomerulonephritis with unspecified pathological lesion in kidney", "code": 5809}
+{"description": "Trigeminal neuralgia", "code": 3501}
+{"description": "Donors of other specified organ or tissue", "code": "V598"}
+{"description": "Intermediate coronary syndrome", "code": 4111}
+{"description": "Open fracture of shaft of radius (alone)", "code": 81331}
+{"description": "Excessive or frequent menstruation", "code": 6262}
+{"description": "Other penile anomalies", "code": 75269}
+{"description": "Neurogenic bladder NOS", "code": 59654}
+{"description": "Benign neoplasm of kidney, except pelvis", "code": 2230}
+{"description": "Malignant neoplasm of upper lobe, bronchus or lung", "code": 1623}
+{"description": "Apnea", "code": 78603}
+{"description": "Closed Monteggia's fracture", "code": 81303}
+{"description": "Unspecified site injury", "code": 9599}
+{"description": "Enuresis", "code": 3076}
+{"description": "Subdural hemorrhage", "code": 4321}
+{"description": "Hallux valgus (acquired)", "code": 7350}
+{"description": "Other chronic nonalcoholic liver disease", "code": 5718}
+{"description": "Dysuria", "code": 7881}
+{"description": "Other specified arthropathy, pelvic region and thigh", "code": 71685}
+{"description": "Unspecified nasal polyp", "code": 4719}
+{"description": "Symptomatic hemophilia A carrier", "code": "V8302"}
+{"description": "Percutaneous transluminal coronary angioplasty status", "code": "V4582"}
+{"description": "Unspecified disorder of biliary tract", "code": 5769}
+{"description": "Benign neoplasm of skin, site unspecified", "code": 2169}
+{"description": "Aseptic necrosis of head and neck of femur", "code": 73342}
+{"description": "Malignant neoplasm of descending colon", "code": 1532}
+{"description": "Benign neoplasm of prostate", "code": 2222}
+{"description": "Problems with sexual function", "code": "V417"}
+{"description": "Neoplasm of uncertain behavior of meninges", "code": 2376}
+{"description": "Open wound of breast, complicated", "code": 8791}
+{"description": "Other tear of cartilage or meniscus of knee, current", "code": 8362}
+{"description": "Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with loss of consciousness of unspecified duration", "code": 85186}
+{"description": "Secondary malignant neoplasm of other specified sites", "code": 19889}
+{"description": "Other pulmonary insufficiency, not elsewhere classified", "code": 51882}
+{"description": "Abnormal mammogram, unspecified", "code": 79380}
+{"description": "Personal history of unspecified malignant neoplasm", "code": "V1090"}
+{"description": "Nodular lymphoma, lymph nodes of multiple sites", "code": 20208}
+{"description": "Unspecified chronic liver disease without mention of alcohol", "code": 5719}
+{"description": "Malignant neoplasm of pelvis", "code": 1953}
+{"description": "Sebaceous cyst", "code": 7062}
+{"description": "Chronic tubotympanic suppurative otitis media", "code": 3821}
+{"description": "Anomalies of skull and face bones", "code": 7560}
+{"description": "Malignant neoplasm of endocervix", "code": 1800}
+{"description": "Malignant neoplasm of biliary tract, part unspecified site", "code": 1569}
+{"description": "Closed fracture of lateral condyle of humerus", "code": 81242}
+{"description": "Malignant neoplasm of thymus", "code": 1640}
+{"description": "Other lymphedema", "code": 4571}
+{"description": "Myasthenia gravis without (acute) exacerbation", "code": 35800}
+{"description": "Benign neoplasm of thyroid glands", "code": 226}
+{"description": "Congenital obstruction of ureteropelvic junction", "code": 75321}
+{"description": "Intracerebral hemorrhage", "code": 431}
+{"description": "Intervertebral disc disorder with myelopathy, lumbar region", "code": 72273}
+{"description": "Malignant neoplasm of tail of pancreas", "code": 1572}
+{"description": "Malignant neoplasm of nipple and areola of female breast", "code": 1740}
+{"description": "Fracture of unspecified bone, closed", "code": 8290}
+{"description": "Calculus of kidney", "code": 5920}

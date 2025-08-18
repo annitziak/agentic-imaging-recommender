@@ -1,0 +1,35 @@
+[
+  {
+    "condition": "Chronic Elbow Pain",
+    "rewritten_queries": [
+      "(Elbow OR Pain OR Elbow Pain) AND (Diagnostic Imaging)",
+      "(Elbow OR Imaging OR Radiography OR Magnetic Resonance Imaging OR Computerized Tomography OR Elbow Imaging) AND (Diagnostic Imaging)",
+      "(Elbow OR Imaging OR Radiography OR Magnetic Resonance Imaging OR Ultrasound Imaging OR Elbow Imaging) AND (Diagnostic Imaging)",
+      "(Elbow Pain OR Elbow OR Chronic Pain OR Carpal Tunnel Syndrome OR Cubital Tunnel Syndrome OR Tennis Elbow OR Golfer's Elbow OR Elbow Sprain) AND (Diagnostic Imaging)",
+      "(Elbow Pain OR Elbow OR Chronic Pain OR Tendinitis OR Tennis Elbow OR Golfer's Elbow) AND (Diagnostic Imaging)",
+      "(Elbow OR Bone Scan OR Radionuclide Scan) AND (Diagnostic Imaging)",
+      "(Elbow OR CT Arthrography OR Arthrography OR Computed Tomography Arthrography OR Arthroscopy OR CT Arthroscopy) AND (Diagnostic Imaging)",
+      "(Elbow OR elbow OR Computed Tomography OR CT Scan OR Magnetic Resonance Imaging OR Elbow Imaging) AND (Diagnostic Imaging)",
+      "(Elbow OR Magnetic Resonance Arthrography OR Arthrography OR Magnetic Resonance Imaging OR MR Arthrography OR Arthroscopy) AND (Diagnostic Imaging)",
+      "(Elbow OR MRI OR Magnetic Resonance Imaging) AND (Diagnostic Imaging)",
+      "(Elbow OR Radiography OR X-ray OR Anterolateral View OR Anterior View OR Posterior View OR Elbow Radiography) AND (Diagnostic Imaging)",
+      "(Elbow OR Ultrasound Imaging OR Magnetic Resonance Imaging OR Elbow Pain) AND (Diagnostic Imaging)"
+    ]
+  },
+  {
+    "condition": "Ovarian Cancer Screening",
+    "rewritten_queries": [
+      "(ovarian cancer screening) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Imaging Imaging OR Computed Tomography OR Magnetic Resonance Imaging OR Ovarian Cancer Screening) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Imaging Imaging OR Mammography OR Ovarian Cancer Screening) AND (Diagnostic Imaging)",
+      "(ovarian cancer screening OR ovarian cancer OR ovarian cancer risk) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Screening OR Pap Test OR Ovarian Cancer Screening) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Computed Tomography OR Magnetic Resonance Imaging OR Ovarian Cancer Screening) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Computed Tomography Scan OR Positron Emission Tomography Scan OR Ovarian Cancer Screening OR Computed Tomography Abdomen OR Pelvis) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR ovarian cancer OR FDG-PET/CT OR Skull Base OR Positron Emission Tomography Computed Tomography OR Ovarian Cancer Imaging OR Positron Emission Tomography Imaging) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR MRI OR Magnetic Resonance Imaging OR Ovarian Cancer Screening) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Color Doppler Ultrasound OR Ultrasound OR Ovarian Ultrasound) AND (Diagnostic Imaging)",
+      "(Ovarian Cancer OR Ultrasound Imaging OR Magnetic Resonance Imaging OR Ovarian Cancer Screening) AND (Diagnostic Imaging)"
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "procedure_synonyms": {
+    "mri": [
+      "mri",
+      "magnetic resonance",
+      "magnetic resonance imaging",
+      "mr imaging"
+    ],
+    "ct": [
+      "ct",
+      "computed tomography",
+      "cat scan"
+    ],
+    "tomosynthesis": [
+      "tomosynthesis",
+      "digital breast tomosynthesis",
+      "dbt"
+    ],
+    "radiography": [
+      "radiography",
+      "x-ray",
+      "xray",
+      "xr"
+    ],
+    "ultrasound": [
+      "ultrasound",
+      "ultrasonography",
+      "sonography",
+      "ultrasonic imaging"
+    ],
+    "us": [
+      "ultrasound",
+      "ultrasonography",
+      "sonography",
+      "ultrasonic imaging"
+    ],
+    "mammography": [
+      "mammography",
+      "mammogram",
+      "breast imaging",
+      "breast x-ray",
+      "breast radiography"
+    ],
+    "mr arthrography": [
+      "mr arthrography",
+      "mr"
+    ],
+    "ct arthrography": [
+      "ct",
+      "computed tomography",
+      "cat scan"
+    ],
+    "fdg-pet/ct brain": [
+      "fdg-pet/ct",
+      "fdg pet ct",
+      "fdg-pet",
+      "fdg pet",
+      "pet/ct",
+      "pet ct",
+      "positron emission tomography",
+      "brain pet",
+      "brain pet/ct"
+    ],
+    "hmpao spect brain": [
+      "hmpao spect",
+      "hmpao spect/ct",
+      "hmpao spect ct",
+      "spect brain",
+      "spect/ct brain",
+      "single photon emission computed tomography",
+      "brain spect",
+      "brain spect/ct"
+    ],
+    "ictal and interictal spect": [
+      "ictal spect",
+      "interictal spect",
+      "ictal spect/ct",
+      "interictal spect/ct",
+      "ictal hmpao",
+      "interictal hmpao"
+    ]
+  },
+  "condition_synonyms": {
+    "acute hand and wrist trauma": [
+      "hand",
+      "wrist",
+      "carpal",
+      "finger",
+      "phalanges",
+      "metacarpal",
+      "digits",
+      "acute trauma",
+      "blunt trauma",
+      "penetrating trauma",
+      "injury",
+      "fracture",
+      "dislocation"
+    ],
+    "chronic elbow pain": [
+      "elbow",
+      "chronic pain",
+      "epicondyle",
+      "olecranon",
+      "cubital",
+      "tendinitis",
+      "tendinopathy",
+      "lateral epicondylitis",
+      "medial epicondylitis",
+      "bursitis",
+      "arthritis"
+    ],
+    "ovarian cancer screening": [
+      "ovarian",
+      "ovary",
+      "ovarian neoplasm",
+      "ovarian cancer",
+      "adnexal mass",
+      "pelvic mass",
+      "screening",
+      "cancer screening"
+    ],
+    "seizures and epilepsy": [
+      "seizure",
+      "seizures",
+      "epilepsy",
+      "epileptic",
+      "convulsion",
+      "status epilepticus",
+      "tonic-clonic",
+      "absence seizure",
+      "focal seizure",
+      "generalized seizure"
+    ],
+    "thoracic back pain": [
+      "thoracic spine",
+      "thoracic back pain",
+      "mid back pain",
+      "thoracic pain",
+      "spinal pain",
+      "vertebrae",
+      "thoracic vertebra",
+      "musculoskeletal pain"
+    ]
+  },
+  "evaluation_keywords": [
+    "diagnostic accuracy",
+    "sensitivity",
+    "specificity",
+    "effectiveness",
+    "clinical utility",
+    "diagnostic yield",
+    "performance",
+    "comparison",
+    "impact",
+    "value",
+    "appropriateness",
+    "recommendation",
+    "guideline",
+    "indications",
+    "contraindications",
+    "cost-effectiveness",
+    "randomized controlled trial",
+    "cohort study",
+    "prospective study",
+    "retrospective study",
+    "systematic review",
+    "meta-analysis",
+    "clinical trial",
+    "diagnostic study",
+    "significant difference",
+    "predictive value",
+    "false positive",
+    "false negative",
+    "accuracy",
+    "validity",
+    "reliability",
+    "outcome measures",
+    "evaluation",
+    "assessment",
+    "role",
+    "roles",
+    "importance",
+    "utility",
+    "limitations",
+    "application",
+    "applications",
+    "value",
+    "review",
+    "overview",
+    "current status",
+    "clinical practice",
+    "imaging modality"
+  ],
+  "included_pub_types": [
+    "review",
+    "guideline",
+    "practice guideline",
+    "consensus statement",
+    "systematic review",
+    "meta-analysis",
+    "health technology assessment",
+    "economic evaluation",
+    "diagnostic study",
+    "clinical trial",
+    "cohort study",
+    "prospective study",
+    "retrospective study",
+    "opinion",
+    "narrative review"
+  ],
+  "procedures_cores": [
+    "ct arthrography",
+    "ct myelography",
+    "us",
+    "radiography",
+    "bone scan with spect or spect/ct",
+    "bone scan",
+    "mri functional",
+    "mr arthrography",
+    "mri",
+    "ct abdomen",
+    "ct",
+    "meg",
+    "fdg-pet/ct",
+    "hmpao spect or spect/ct ictal and interictal"
+]
+}
