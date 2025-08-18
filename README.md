@@ -22,19 +22,19 @@ The system is composed of specialized agents working together in a modular pipel
   When no ACR variant exists for the diagnosis, this agent uses **DeepRetrieval** to search PubMed for relevant studies describing imaging guidance for the clinical condition.
 
 - **Post-Filtering Agent**  
- Applies a lightweight ML-based quality filter to the retrieved literature, ranking studies by design (e.g., RCTs, cohort studies) and sample size, and assigning strength of evidence according to the GRADE scale.
+ Applies a lightweight ML-based quality filter to the retrieved literature, using features like design (e.g., RCTs, cohort studies) and sample size, and assigning strength of evidence according to the GRADE scale.
 
 - **Reasoning Agent**  
   The core agent, trained using **Group Relative Policy Optimization (GRPO)** to replicate **stepwise expert reasoning traces** from the ACR criteria.  
-  - Supports multiple reward functions (e.g., format, answer correctness, reasoning alignment, citation grounding).  
+  - Supports multiple reward functions (e.g., format, answer correctness, reasoning alignment)
   - Can incorporate external medical evidence to produce more accurate and transparent justifications.
 
-## Installation and Setup
+## ⚙️ Installation and Setup
 - Requires **Python 3.10**.  
-- Install dependencies from the `requirements` folder.  
+- Install dependencies from the `requirements.txt` file.  
 - Detailed implementation steps are included in the README files inside each script directory.
 
-## Results
+## 📊 Results
 Key experimental results are stored in the `results` directory, organized into files for:
 - **Generalization**
 - **ICD Coding**
