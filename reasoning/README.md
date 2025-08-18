@@ -27,7 +27,7 @@ Trains the Reasoning Agent with GRPO (Group Relative Policy Optimization) using 
   - `format` (XML structure)
   - `answer` (correctness of label)
   - `llm_eval` (LLM-judged reasoning quality)
-  - `custom_embedding` (reasoning trace alignment via SBERT)
+  - `custom_embedding` (reasoning trace alignment and binary answer reward)
 - Uses `GRPOTrainer` from TRL to apply multiple reward functions jointly.
 
 ---
@@ -38,7 +38,7 @@ Trains the Reasoning Agent with GRPO (Group Relative Policy Optimization) using 
 - `format_reward` – Enforces output structure with XML tags.
 - `correctness_answer` – Binary reward for correct answer label.
 - `llm_eval_reward` – Scores generated reasoning vs. gold using LLM on clinical alignment.
-- `custom_embedding_reward` – Measures cosine similarity between reasoning sentences (SBERT).
+- `custom_embedding_reward` – Measures cosine similarity between reasoning sentences (SBERT) and multiplies by binary answer reward.
 
 ---
 
@@ -64,7 +64,7 @@ You would need to run inference on using the Agent and parse the results before 
 See the arguments to understand how to run evaluation. An example can be:
 
 ```bash
-python model_evaluation.py --path data/generalization_dataset_example.json --classification --entities --llm
+python model_evaluation.py --path data/example_results.json --classification --entities --llm
 ```
 
 ---
@@ -72,7 +72,7 @@ python model_evaluation.py --path data/generalization_dataset_example.json --cla
 ## `reward_plotting.py`
 
 ### 📈 Visualizes training rewards:
-- Smooths and plots reward logs over epochs for each reward type (answer, format, etc.). You need the `trainer_state` files for this.
+- Smooths and plots reward logs over epochs for each reward type (answer, format, etc.). You need the `trainer_state` files for this, which can be obtained when running the training.
 
 ---
 
