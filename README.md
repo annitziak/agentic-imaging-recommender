@@ -48,7 +48,9 @@ The full document is also given under `final_document.pdf`.
 
 I'm especially proud of this Dissertation project. I made it a goal to contribute to it **every single day** for 6 weeks-  a commitment you can see in the GitHub commit heatmap below!  
 
-<img src="/figures/personal_contributions.png" alt="Contributions" width="200"/>
+<p align="center">
+  <img src="/figures/personal_contributions.png" alt="Contributions" width="400"/>
+</p>
 
 ## 🤝 Open to Collaboration
 If you're working on similar topics in medical AI or clinical reasoning systems, feel free to reach out! I am currently working on advancing the system and I would love to connect, exchange ideas, or collaborate on future work. 🧠📚💬
